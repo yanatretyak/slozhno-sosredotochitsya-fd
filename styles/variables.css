@@ -1,11 +1,7 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
 :root {
   --bg-image: url(../images/cover-image-dark.png);
-  --bg-color: rgb(0 2 45);
-  --main-font: 'IBM Plex mono', sans-serif;
+  --bg-color: rgba(0, 0, 40, 1);
+  --main-font: 'IBM Plex mono', monospace;
   --accent-color: rgba(255, 0, 112, 1);
   --title-color: rgba(219, 0, 255, 1);
   --text-decor-color: rgba(0, 0, 40, 1);
@@ -14,4 +10,5 @@
   --rec-display: initial;
   --theme-menu-color: rgba(255, 0, 112, 1);
   --theme-menu-color-hover: rgba(255, 0, 112, 0.4);
+  --decorated-zone-color: rgba(255, 0, 112, 1);
 }
